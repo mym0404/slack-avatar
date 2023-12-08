@@ -69,7 +69,7 @@ const config: Config = {
         },
         {to: '/blog', label: '수학대왕 아바타는 뭘까?', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/mym0404/',
           label: 'GitHub',
           position: 'right',
         },
