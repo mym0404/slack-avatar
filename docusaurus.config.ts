@@ -17,7 +17,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mym0404', // Usually your GitHub org/user name.
-  projectName: 'slack-avatar-command', // Usually your repo name.
+  projectName: 'slack-avatar', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,7 +53,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/social-card.jpg',
     navbar: {
       title: '수학대왕 아바타는 너무 멋져!',
       logo: {
