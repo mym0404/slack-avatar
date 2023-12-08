@@ -2,46 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+환영합니다! 이 문서는 "수학대왕" 서비스의 흥미진진한 아바타들을 슬랙에서 직접 볼 수 있는 독특한 커맨드에 대해 소개합니다.
 
-## Getting Started
+이 커맨드는 "수학대왕"의 다양한 아바타 중에서 랜덤하게 조합된 아바타를 보여줍니다. 이와 함께, 아바타마다 특별히 맞춤화된 재치 있는 문구도 함께 표시되어, 사용자들에게 새로운 즐거움을 선사합니다.
 
-Get started by **creating a new site**.
+본 문서에서는 이 커맨드의 기능과 사용 방법을 자세히 안내합니다. 또한, 슬랙을 사용하는 과정에서 이 커맨드를 어떻게 효과적으로 활용할 수 있는지에 대한 다양한 팁과 사례들을 제공합니다.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+사용자들은 이 안내문을 통해 슬랙에서 "수학대왕"의 아바타를 더 잘 활용하는 방법을 배울 수 있으며, 팀 커뮤니케이션을 더욱 풍부하고 생동감 있게 만들 수 있습니다.
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+이 문서는 모든 슬랙 사용자들에게 "수학대왕" 아바타 커맨드의 매력을 전달하고, 학습과 소통에 새로운 차원을 더해줄 것입니다.
