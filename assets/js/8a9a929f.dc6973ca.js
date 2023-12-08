@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkslack_avatar=self.webpackChunkslack_avatar||[]).push([[48],{8917:a=>{a.exports=JSON.parse('{"permalink":"/slack-avatar/blog/tags/fun","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
